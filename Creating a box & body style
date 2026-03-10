@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="view port"content="width"-device-width,intial-scale=1.0>
+        <title>Box</title>
+        <style>
+            .box1 {
+                width:300px;
+                height:120px;
+                background-color: #ffffffd8;
+                border:2px solid black;
+                margin:0 auto;
+            }
+            </style>
+    </head>
+    <body style="background-color:lightblue;"></body>
+    
+    <body>
+    <div class="box1">
+        "Iam learning HTML & CSS"
+    </div>
+</body>
+</html>
